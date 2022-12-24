@@ -1,1 +1,12 @@
 
+*{
+    margin: 0;
+    padding: 0;
+}
+main > .container {
+    max-width: 980px;
+    padding: 0 10px;
+}
+main > h1{
+    color: red;
+}
