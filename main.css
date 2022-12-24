@@ -43,6 +43,18 @@ footer {
     margin-bottom: 50px;
     text-align: center;
 }
-footer p {
-    padding-bottom: 22px;
+footer .g{
+    padding-bottom: 5px;
+    font-size: 18px;
+}
+footer .j{
+    padding-bottom: 24px;
+    font-size: 22px;
+}
+footer .j span{
+    color: red;
+    text-transform: uppercase;
+}
+footer a{
+    font-size: 18px;
 }
