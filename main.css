@@ -40,6 +40,7 @@ main > .container h1{
 }
 footer {
     margin-top: 90px;
+    margin-bottom: 50px;
     text-align: center;
 }
 footer p {
