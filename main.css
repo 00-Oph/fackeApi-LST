@@ -1,12 +1,47 @@
 
 *{
-    margin: 0;
-    padding: 0;
+margin: 0;
+padding: 0;
+}
+p, a{
+    color: aliceblue;
+}
+body {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 main > .container {
     max-width: 980px;
     padding: 0 10px;
+    margin: 0 auto;
 }
-main > h1{
-    color: red;
+main > .container h1{
+    color: rgba(239, 233, 228, 0.819);
+    padding-top: 40vh;
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Chivo Mono', monospace;
+    font-family: 'Rubik Vinyl', cursive;
+
+}
+.container span{
+    padding-top: 20px;
+    font-size: 20px;
+    display: block;
+    text-align: center;
+    color: aliceblue;
+}
+.container p{
+    padding-top: 16px;
+    font-size: 26px;
+    text-align: center;
+    color: aliceblue;
+}
+footer {
+    margin-top: 90px;
+    text-align: center;
+}
+footer p {
+    padding-bottom: 22px;
 }
