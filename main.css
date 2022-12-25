@@ -56,5 +56,8 @@ footer .j span{
     text-transform: uppercase;
 }
 footer a{
-    font-size: 18px;
+    ffont-size: 18px;
+    text-decoration: none;
+    color: rgb(228, 68, 10);
+    text-decoration: none;
 }
