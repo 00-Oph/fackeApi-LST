@@ -5,6 +5,7 @@ padding: 0;
 }
 p, a{
     color: aliceblue;
+    text-decoration: none;
 }
 body {
     background-size: cover;
